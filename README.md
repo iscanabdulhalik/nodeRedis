@@ -19,10 +19,6 @@ A Node.js-based RESTful API project that integrates **MongoDB** and **Redis** to
 - **Redis**: In-memory database for caching.
 - **Body-parser**: Middleware for parsing JSON requests.
 
-## Project Structure
-
-mongo-redis-crud/ ├── config/ │ ├── database.js # MongoDB connection configuration │ ├── redis.js # Redis connection configuration ├── index.js # Main application file ├── package.json # Dependencies and scripts └── README.md # Project documentation
-
 ## Setup Instructions
 
 ### Prerequisites
@@ -76,6 +72,9 @@ License
 This project is licensed under the MIT License.
 
 Author
+
 Name: Abdulhalık İşcan
+
 LinkedIn: linkedin.com/in/iscandev
+
 GitHub: github.com/iscanabdulhalik
